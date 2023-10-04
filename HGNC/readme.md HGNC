@@ -1,7 +1,7 @@
 
 - downloaded the latest file from https://ftp.ebi.ac.uk/pub/databases/genenames/hgnc/archive/monthly/tsv/
 
-- Accessed https://www.genenames.org/download/archive/ on Oct042023; 
+- Accessed https://www.genenames.org/download/archive/ on Oct042023; hgnc_complete_set_2021-03-01.txt
 
 - This has  latest HGNC approved gene symbols together with mappings to other idnetifiers including Ensembl and Entrez; 
 
